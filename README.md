@@ -1,4 +1,3 @@
-![Screenshot 2024-06-14 001559](https://github.com/Yogesh-ProITBridge/Time-series-Project/assets/151123394/85dc21e0-b17d-4231-b1eb-f2226760960f)
 # Gold Price Forecasting
 
 This project involves collecting, analyzing, and forecasting gold prices using various predictive models. The project includes data collection through web scraping and API integration, data preparation, model building, evaluation, and deployment.
@@ -72,3 +71,4 @@ Conclusions and suggestions derived from model evaluation were presented to stak
 
 ![Screenshot 2024-06-12 225641](https://github.com/Yogesh-ProITBridge/Time-series-Project/assets/151123394/b0c408a9-c4fa-4c10-a80a-aa77c2450ca3)
 
+![Screenshot 2024-06-14 001559](https://github.com/Yogesh-ProITBridge/Time-series-Project/assets/151123394/85dc21e0-b17d-4231-b1eb-f2226760960f)
